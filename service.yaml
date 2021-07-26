@@ -10,4 +10,4 @@ spec:
   - protocol: TCP
     port: 8666
     targetPort: 8080
-© 2021 GitHub, Inc.
+
